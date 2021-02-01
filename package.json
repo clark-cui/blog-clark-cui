@@ -1,0 +1,16 @@
+{
+  "name": "note-clark-cui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/clark-cui/note-clark-cui.git",
+  "author": "clark-cui <cuirongchuan@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.0",
+    "vuepress-theme-reco": "^1.6.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
