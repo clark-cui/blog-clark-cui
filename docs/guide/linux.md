@@ -8,3 +8,4 @@
 https://npm.taobao.org/mirrors/node/latest-v15.x/node-v15.4.0-linux-x64.tar.xz 下载npm
 ```
 
+[nginx部署](https://yq.aliyun.com/articles/744961)
