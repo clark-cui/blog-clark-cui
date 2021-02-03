@@ -9,3 +9,12 @@ https://npm.taobao.org/mirrors/node/latest-v15.x/node-v15.4.0-linux-x64.tar.xz �
 ```
 
 [nginx部署](https://yq.aliyun.com/articles/744961)
+
+
+
+[docker教程](https://cloud.tencent.com/developer/article/1667550)
+
+dev.to上有很多
+
+精通linux
+
