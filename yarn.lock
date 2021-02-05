@@ -8353,7 +8353,7 @@ vuepress-theme-reco@^1.6.1:
 
 vuepress@^1.8.0:
   version "1.8.0"
-  resolved "https://registry.npm.taobao.org/vuepress/download/vuepress-1.8.0.tgz#0139d466b33fbfdb628abb76d555368b85cf9772"
+  resolved "http://npm.17zuoye.net/vuepress/-/vuepress-1.8.0.tgz#0139d466b33fbfdb628abb76d555368b85cf9772"
   integrity sha1-ATnUZrM/v9tiirt21VU2i4XPl3I=
   dependencies:
     "@vuepress/core" "1.8.0"
