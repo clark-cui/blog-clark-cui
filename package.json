@@ -1,8 +1,8 @@
 {
-  "name": "note-clark-cui",
+  "name": "blog-clark-cui",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/clark-cui/note-clark-cui.git",
+  "repository": "https://github.com/clark-cui/blog-clark-cui.git",
   "author": "clark-cui <cuirongchuan@163.com>",
   "license": "MIT",
   "devDependencies": {

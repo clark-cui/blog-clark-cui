@@ -2,9 +2,9 @@
 title: docker配置
 date: 2021-02-04
 categories:
- - devops
+  - devops
 tags:
- - docker
+  - docker
 ---
 
 [docker1](https://cloud.tencent.com/developer/article/1667550)
@@ -45,4 +45,3 @@ docker run --name nginx \
 -d nginx
 
 ```
-
